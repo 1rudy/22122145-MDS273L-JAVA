@@ -88,4 +88,4 @@ public class Lab2 {
 
     public static boolean isDuplicate(String name) {
         for (int i = 0; i < count; i++) {
-            if (name
+            if (name 
